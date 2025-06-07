@@ -8,5 +8,6 @@ print(weekly_budget)
 #weekly_budget=int(input (weekly_budget)
 print(weekly_budget = 100)
 #Ctrl /
+
 # COMMAND /
 # '300A'
